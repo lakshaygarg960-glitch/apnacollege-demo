@@ -1,3 +1,3 @@
 # apnacollege-demo
-<u><i>this is my first git repoisitory</i></u><br>
+<i>this is my first git repoisitory</i><br>
 author-lakshay garg
